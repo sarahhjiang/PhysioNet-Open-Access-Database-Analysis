@@ -10,5 +10,5 @@ To investigate this hypothesis, we performed chi-squared tests on several permut
 With an alpha (&alpha;) = .05, we found that the p-values for ace vs. age, race vs. gender, ethnicity vs. age, and ethnicity vs. gender were all significantly greater than &alpha; = .05. Thus, we fail to reject our null hypotheses that these combinations of two variables were reported independently. Looking at race vs. ethnicity and age vs. gender, the p-value for these chi-squared tests were significantly smaller than &alpha; = .05 -- several magnitudes of 10 smaller. From these results, we reject our null hypothesis that race and ethnicity and age and gender are reported independently. Thus, we can conclude that race-ethnicity and age-gender (as a pair) are not reported independently in the studies available from the Physionet database. 
 
 ## Hypothesis 4
-### Hypothesis #4: The proportion of studies that report race and ethnicity information is significantly lower than the proportion of studies that report age and gender.
+### The proportion of studies that report race and ethnicity information is significantly lower than the proportion of studies that report age and gender.
 
