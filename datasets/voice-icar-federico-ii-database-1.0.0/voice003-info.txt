@@ -1,0 +1,31 @@
+ID	voice003
+	
+Age:	34
+Gender:	m
+Diagnosis:	hyperkinetic dysphonia (nodule)
+Occupation status:	Researcher
+	
+	
+Voice Handicap Index (VHI) Score:	42
+Reflux Symptom Index (RSI) Score:	26
+	
+	
+Smoker:	no
+Number of cigarettes smoked per day:	NU
+	
+Alcohol consumption:	casual drinker
+Number of glasses containing alcoholic beverage drinked in a day	1
+Amount of water's litres drink every day:	1,5
+	
+Eating habits:	
+Carbonated beverages:	sometimes
+Amount of glasses drinked in a day	1
+Tomatoes:	sometimes
+Coffee:	almost always
+Number of cups of coffee drinked in a day	NU
+Chocolate:	sometimes
+Gramme of chocolate eaten in  a day	20 gr
+Soft cheese:	almost always
+Gramme of soft cheese eaten in a day	200 gr
+Citrus fruits:	almost never
+Number of citrus fruits eaten in a day	NU

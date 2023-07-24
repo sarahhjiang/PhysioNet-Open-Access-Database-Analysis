@@ -1,0 +1,31 @@
+ID	voice041
+	
+Age:	34
+Gender:	m
+Diagnosis:	reflux laryngitis
+Occupation status:	Researcher
+	
+	
+Voice Handicap Index (VHI) Score:	0
+Reflux Symptom Index (RSI) Score:	0
+	
+	
+Smoker:	No
+Number of cigarettes smoked per day:	NU
+	
+Alcohol consumption:	casual drinker
+Number of glasses containing alcoholic beverage drinked in a day	NU
+Amount of water's litres drink every day:	1
+	
+Eating habits:	
+Carbonated beverages:	almost never
+Amount of glasses drinked in a day	NU
+Tomatoes:	almost never
+Coffee:	always
+Number of cups of coffee drinked in a day	3
+Chocolate:	sometimes
+Gramme of chocolate eaten in  a day	30 gr
+Soft cheese:	almost always
+Gramme of soft cheese eaten in a day	50 gr
+Citrus fruits:	almost always
+Number of citrus fruits eaten in a day	2

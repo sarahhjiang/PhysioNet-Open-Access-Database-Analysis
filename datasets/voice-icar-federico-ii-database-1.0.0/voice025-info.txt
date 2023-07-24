@@ -1,0 +1,31 @@
+ID	voice025
+	
+Age:	45
+Gender:	m
+Diagnosis:	healthy
+Occupation status:	Researcher
+	
+	
+Voice Handicap Index (VHI) Score:	16
+Reflux Symptom Index (RSI) Score:	1
+	
+	
+Smoker:	No
+Number of cigarettes smoked per day:	NU
+	
+Alcohol consumption:	habitual drinker
+Number of glasses containing alcoholic beverage drinked in a day	1
+Amount of water's litres drink every day:	1,5
+	
+Eating habits:	
+Carbonated beverages:	almost never
+Amount of glasses drinked in a day	NU
+Tomatoes:	sometimes
+Coffee:	always
+Number of cups of coffee drinked in a day	1
+Chocolate:	sometimes
+Gramme of chocolate eaten in  a day	10 gr
+Soft cheese:	sometimes
+Gramme of soft cheese eaten in a day	150 gr/ month 
+Citrus fruits:	almost always
+Number of citrus fruits eaten in a day	1

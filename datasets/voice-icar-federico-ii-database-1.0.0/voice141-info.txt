@@ -1,0 +1,31 @@
+ID	voice141
+	
+Age:	18
+Gender:	f
+Diagnosis:	hypokinetic dysphonia
+Occupation status:	Student
+	
+	
+Voice Handicap Index (VHI) Score:	26
+Reflux Symptom Index (RSI) Score:	6
+	
+	
+Smoker:	no
+Number of cigarettes smoked per day:	NU
+	
+Alcohol consumption:	nondrinker
+Number of glasses containing alcoholic beverage drinked in a day	NU
+Amount of water's litres drink every day:	1
+	
+Eating habits:	
+Carbonated beverages:	sometimes
+Amount of glasses drinked in a day	NU
+Tomatoes:	sometimes
+Coffee:	never
+Number of cups of coffee drinked in a day	NU
+Chocolate:	sometimes
+Gramme of chocolate eaten in  a day	NU
+Soft cheese:	sometimes
+Gramme of soft cheese eaten in a day	NU
+Citrus fruits:	sometimes
+Number of citrus fruits eaten in a day	NU

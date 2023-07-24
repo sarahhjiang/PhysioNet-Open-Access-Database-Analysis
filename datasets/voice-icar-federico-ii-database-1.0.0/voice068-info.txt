@@ -1,0 +1,31 @@
+ID	voice068
+	
+Age:	59
+Gender:	f
+Diagnosis:	hyperkinetic dysphonia
+Occupation status:	Employee
+	
+	
+Voice Handicap Index (VHI) Score:	11
+Reflux Symptom Index (RSI) Score:	12
+	
+	
+Smoker:	No
+Number of cigarettes smoked per day:	NU
+	
+Alcohol consumption:	casual drinker
+Number of glasses containing alcoholic beverage drinked in a day	NU
+Amount of water's litres drink every day:	0,5
+	
+Eating habits:	
+Carbonated beverages:	almost never
+Amount of glasses drinked in a day	NU
+Tomatoes:	sometimes
+Coffee:	always
+Number of cups of coffee drinked in a day	3
+Chocolate:	sometimes
+Gramme of chocolate eaten in  a day	NU
+Soft cheese:	almost never
+Gramme of soft cheese eaten in a day	NU
+Citrus fruits:	sometimes
+Number of citrus fruits eaten in a day	NU

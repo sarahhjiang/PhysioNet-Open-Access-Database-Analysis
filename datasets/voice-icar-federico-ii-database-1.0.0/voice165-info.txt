@@ -1,0 +1,31 @@
+ID	voice165
+	
+Age:	55
+Gender:	m
+Diagnosis:	hypokinetic dysphonia (glottic insufficiency)
+Occupation status:	Hairstylist
+	
+	
+Voice Handicap Index (VHI) Score:	97
+Reflux Symptom Index (RSI) Score:	16
+	
+	
+Smoker:	no
+Number of cigarettes smoked per day:	NU
+	
+Alcohol consumption:	casual drinker
+Number of glasses containing alcoholic beverage drinked in a day	NU
+Amount of water's litres drink every day:	1,5
+	
+Eating habits:	
+Carbonated beverages:	sometimes
+Amount of glasses drinked in a day	NU
+Tomatoes:	sometimes
+Coffee:	sometimes
+Number of cups of coffee drinked in a day	2
+Chocolate:	sometimes
+Gramme of chocolate eaten in  a day	NU
+Soft cheese:	almost never
+Gramme of soft cheese eaten in a day	NU
+Citrus fruits:	never
+Number of citrus fruits eaten in a day	NU
