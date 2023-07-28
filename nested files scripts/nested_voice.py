@@ -2,7 +2,7 @@ import os
 import re
 import csv
 
-## extract demographics data for VOICED database
+## extract demographics data for VOICED database, intracardiac-atrial-fibrillation-database-1.0.0
 
 def extract_age_and_sex(file_path):
     age = None
@@ -47,6 +47,6 @@ def main(dataset_path, output_csv):
     write_to_csv(output_csv, data)
 
 if __name__ == "__main__":
-    dataset_path = "/Users/sarahjiang/physionet-demographics-reporting/voice-icar-federico-ii-database-1.0.0"
+    dataset_path = "/Users/sarahjiang/physionet-demographics-reporting/intracardiac-atrial-fibrillation-database-1.0.0"
     output_csv = "voice data.csv"
     main(dataset_path, output_csv)

@@ -4,7 +4,7 @@ import re
 
 def extract_age_and_sex(text):
     age_match = re.search(r'Age:\s*(\d+)', text)
-    sex_match = re.search(r'Sex:\s*([MF])', text) ## change 'Sex' to 'Gender' for human balance evaluation db
+    sex_match = re.search(r'Gender:\s*([MF])', text) ## change 'Sex' to 'Gender' for human balance evaluation db
 
     age = int(age_match.group(1)) if age_match else None
     sex = sex_match.group(1) if sex_match else None
@@ -38,7 +38,7 @@ def parse_folder_and_save_to_csv(folder_path, csv_filename):
         for data in age_sex_data:
             writer.writerow({'Filename': data['filename'], 'Age': data['age'], 'Sex': data['sex']})
 
-folder_path = "/Users/sarahjiang/physionet-demographics-reporting/"  # Replace this with the path to your folder
-csv_filename = "age_sex_data.csv"     # Specify the desired CSV filename
+folder_path = "/Users/sarahjiang/physionet-demographics-reporting/human-balance-evaluation-database-1.0.0"  # Replace this with the path to your folder
+csv_filename = "balance.csv"     # Specify the desired CSV filename
 
 parse_folder_and_save_to_csv(folder_path, csv_filename)
