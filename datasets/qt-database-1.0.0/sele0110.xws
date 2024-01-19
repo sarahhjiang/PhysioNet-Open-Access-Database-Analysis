@@ -1,3 +1,0 @@
--r sele0110
--a man
--p http://<!--#echo var="SERVER_NAME" --><!--#echo var="DOCUMENT_URI" -->
