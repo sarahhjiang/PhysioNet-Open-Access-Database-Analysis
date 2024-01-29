@@ -33,8 +33,7 @@ def main(dataset_path, output_csv):
             if file.endswith('.hea'):
                 file_path = os.path.join(root, file)
                 age, gender = extract_age_gender(file_path)
-                if age is not None and gender is not None:
-                    data.append({'File': file, 'Age': age, 'Gender': gender})
+                data.append({'File': file, 'Age': age, 'Gender': gender})
 
     write_to_csv(output_csv, data)
 
