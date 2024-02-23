@@ -1,0 +1,37 @@
+Participant No,Record Name,Gender,Smoking Status,BMI,Age
+1,301116B,M,Non-Smoker,21.7,20
+2,301116A,M,Non-Smoker,26.5,42
+3,051216A,M,Non-Smoker,22,20
+4,081216A,M,Non-Smoker,23.6,20
+5,101216A,F,Non-Smoker,24.1,45
+6,101216B,M,Non-Smoker,26.8,49
+7,101216C,M,Non-Smoker,23.2,22
+8,121216A,M,Non-Smoker,20.6,20
+9,121216B,F,Non-Smoker,23.1,21
+10,230117A,M,Smoker ,26.8,23
+11,230117B,F,Ex-Smoker ,17.9,21
+12,250117A,F,Non-Smoker,21.3,35
+13,250117B,M,Non-Smoker,23,20
+14,250117C,M,Ex-Smoker ,28.4,55
+15,300117A,F,Non-Smoker,20.3,20
+16,010217A,F,Non-Smoker,20.5,23
+17,010217B,F,Non-Smoker,21.7,21
+18,010217C,F,Smoker ,23.8,45
+19,070217A,F,Non-Smoker,19.8,19
+20,080217A,F,Non-Smoker,24.7,22
+21,080217B,F,Non-Smoker,20.7,20
+22,090217A,F,Non-Smoker,28.2,41
+23,090217B,F,Non-Smoker,24.4,20
+24,160217A,M,Ex-Smoker ,24.5,60
+25,160217B,F,Ex-Smoker ,18.5,56
+26,160217C,F,non Smoker,24.2,24
+27,160217D,M,Non-Smoker,23.9,45
+28,160217E,F,Non-Smoker,19.8,38
+29,210217A,M,Smoker ,24.6,21
+30,210217B,M,Non-Smoker,26.7,23
+31,210217C,F,Non-Smoker,18.9,21
+32,010317A,F,Ex-Smoker,23.2,66
+33,010317B,M,non Smoker,25.1,70
+34,140317A,M,Non-Smoker,26.2,42
+35,150317A,F,Non-Smoker,24.3,62
+36,150317B,M,Non-Smoker,19.9,48

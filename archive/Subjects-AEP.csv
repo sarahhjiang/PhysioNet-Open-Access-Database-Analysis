@@ -1,0 +1,21 @@
+Subject ID,Age ,Gender,Smoke,Alcoholic,Medication,Mother Language,BMI,comments
+S01,27,Male,Yes,Occasionally,No,Italian,25.92592593,
+S02,23,Female,Yes,Occasionally,No,Italian,22.94811574,
+S03,26,Male,No,Occasionally,No,Arabic,20.45288532,
+S04,29,Male,No,Occasionally,No,Arabic,27.45982194,
+S05,28,Male,Yes,Neve,No,Arabic,27.77031264,
+S06,27,Male,Yes,Never ,No,Arabic,28.40816327,
+S07,25,Male,No,Occasionally,No,Latvian,22.03840116,
+S08,24,Female,No,Usually ,Yes,Italian,21.875,
+S09,30,Female,No,Usually,No,Arabic,23.183391,
+S10,26,Male,No,Occasionally,Yes,Italian,26.06167931,
+S11,25,Male,No,Never ,No,Arabic,19.39058172,Fluent in Italian
+S12,27,Male,No,Occasionally,No,Italian,26.2345679,
+S13,27,Male,No,Occasionally,No,Italian,26.2345679,
+S14,26,Male,No,Never ,No,Arabic,35.91836735,
+S15,25,Male,No,Usually,No,Italian,21.88707637,
+S16,26,Male,No,Occasionally,No,English,22.75830678,
+S17,21,Male,No,Never ,No,Arabic,35.49382716,Fluent in Italian
+S18,31,Male,No,Never ,Yes,Urdu,20.42835711,
+S19,22,Female,No,Never ,No,Italian,21.0076678,Fluent in Italian
+S20,25,Male,No,Occasionally,No,English,22.49134948,

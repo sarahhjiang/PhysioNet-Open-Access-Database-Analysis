@@ -1,0 +1,30 @@
+﻿Pid,Gender,Age,Form Room,Math Room,Language Room,What is your general feeling in the classroom? - 1,When I am engaged in class: - I usually don't feel too hot or too cold.,When I am engaged in class: - I could get distracted when the room is too hot or too cold.
+1,Female,16,R3,R3,R1,0,Somewhat disagree,Somewhat agree
+2,Female,17,R3,R1,R1,0,Somewhat disagree,Neither agree nor disagree
+3,Male,16,R3,R2,R4,-1,Somewhat disagree,Somewhat disagree
+4,Male,16,R3,R1,R1,-1,Somewhat disagree,Somewhat agree
+5,Male,16,R3,R1,R3,1,Somewhat disagree,Somewhat agree
+6,Male,16,R3,R2,R3,0,Somewhat disagree,Strongly disagree
+7,Female,15,R3,R2,R1,-1,Somewhat agree,Strongly agree
+8,Female,16,R2,R2,R4,-3,Somewhat disagree,Strongly agree
+9,Female,17,R2,R2,R2,-1,Somewhat disagree,Strongly disagree
+10,Female,15,R2,R1,R1,-3,Somewhat disagree,Strongly disagree
+11,Female,16,R2,R1,R3,-1,Neither agree nor disagree,Somewhat disagree
+12,Male,16,R2,R3,R3,-1,Somewhat disagree,Somewhat agree
+13,Male,16,R1,R3,R1,0,Somewhat disagree,Strongly agree
+14,Male,16,R1,R1,R2,0,Neither agree nor disagree,Neither agree nor disagree
+15,Female,16,R1,R2,R1,-3,Strongly disagree,Somewhat disagree
+16,Male,16,R1,R2,R3,2,Somewhat agree,Somewhat agree
+17,Female,16,R1,R2,R1,-2,Neither agree nor disagree,Somewhat agree
+18,Female,16,R1,R1,R4,1,Somewhat disagree,Somewhat agree
+19,Female,16,R1,R3,R1,-1,Somewhat agree,Strongly agree
+20,Female,16,R1,R2,R1,-1,Strongly agree,Somewhat agree
+21,Male,15,R1,R3,R1,0,Neither agree nor disagree,Somewhat disagree
+22,Male,16,R1,R3,R1,0,Neither agree nor disagree,Neither agree nor disagree
+23,Female,16,R2,R3,R1,-2,Neither agree nor disagree,Somewhat agree
+t1,Female,33,Science,0,Somewhat agree,Somewhat agree
+t2,Male,62,Maths,1,Somewhat agree,Somewhat agree
+t3,Female,61,Maths,1,Somewhat agree,Strongly agree
+t4,Female,50,Japanese,0,Strongly agree,Somewhat agree
+t5,Female,,English,,,
+t6,Male,,Maths,,,

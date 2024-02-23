@@ -1,0 +1,9 @@
+Listener,Age,Gender,EAR,Threshold(1kHz),Threshold(4kHz)
+h1,87,male,left,50,
+h2,84,male,right,60,
+h3,79,female,right,50,60
+h4,64,male,left,60,70
+h5,74,female,right,35,65
+h6,57,male,right,50,
+h7,65,female,right,35,35
+h8,40,female,left,55,70

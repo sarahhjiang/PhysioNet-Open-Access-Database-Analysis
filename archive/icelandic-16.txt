@@ -1,0 +1,123 @@
+Filename	ID	Record type	Record number	Age (years)	BMI before pregnancy	BMI at recording	Gravidity	Parity	Previous caesarean	Placental position	Gestational age at recording (w/d)	Gestational age at delivery (w/d)	Mode of delivery	Synthetic oxytocin use in labour	Epidural during labour	Duration of recording (hh:mm:ss)	Annotation file
+ice001_l_1of1	ice001	labour	1	31	23.3	27.6	3	2	No	Fundus	39/3	39/3	Vaginal	No	No	00:08:20	No
+ice002_p_1of3	ice002	pregnancy	1	38	20.7	25.9	4	1	No	Posterior	38/1	40/4	Vaginal	No	No	01:08:05	Yes
+ice002_p_2of3	ice002	pregnancy	2	38	20.7	25.9	4	1	No	Posterior	39/1	40/4	Vaginal	No	No	01:02:10	Yes
+ice002_p_3of3	ice002	pregnancy	3	38	20.7	26.4	4	1	No	Posterior	40/1	40/4	Vaginal	No	No	01:00:35	Yes
+ice003_p_1of2	ice003	pregnancy	1	23	28.4	34.1	1	0	No	Anterior	37/6	40/0	Vaginal	No	No	01:01:10	Yes
+ice003_p_2of2	ice003	pregnancy	2	23	28.4	34.6	1	0	No	Anterior	38/6	40/0	Vaginal	No	No	01:00:45	Yes
+ice004_p_1of1	ice004	pregnancy	1	30	31.0	35.8	4	2	No	Posterior	36/5	41/3	Vaginal/Induction	No	No	01:06:10	Yes
+ice005_p_1of3	ice005	pregnancy	1	28	29.0	31.2	2	0	No	Posterior	32/4	40/3	Vaginal	Yes	No	01:01:55	Yes
+ice005_p_2of3	ice005	pregnancy	2	28	29.0	31.2	2	0	No	Posterior	34/6	40/3	Vaginal	Yes	No	00:59:20	Yes
+ice005_p_3of3	ice005	pregnancy	3	28	29.0	31.6	2	0	No	Posterior	36/6	40/3	Vaginal	Yes	No	01:05:30	Yes
+ice006_p_1of2	ice006	pregnancy	1	30	31.6	37.4	2	1	No	Posterior	36/1	37/6	Vaginal/Induction	Yes	No	01:02:10	Yes
+ice006_p_2of2	ice006	pregnancy	2	30	31.6	37.6	2	1	No	Posterior	37/4	37/6	Vaginal/Induction	Yes	No	01:02:45	Yes
+ice007_p_1of3	ice007	pregnancy	1	19	23.2	27.8	1	0	No	Posterior	32/5	41/2	Vaginal	No	No	01:06:40	Yes
+ice007_p_2of3	ice007	pregnancy	2	19	23.2	28.1	1	0	No	Posterior	35/5	41/2	Vaginal	No	No	01:13:55	Yes
+ice007_p_3of3	ice007	pregnancy	3	19	23.2	29.4	1	0	No	Posterior	37/5	41/2	Vaginal	No	No	01:01:50	Yes
+ice008_p_1of4	ice008	pregnancy	1	26	20.9	25.3	5	2	No	Anterior	35/5	40/2	Vaginal	No	No	01:02:00	Yes
+ice008_p_2of4	ice008	pregnancy	2	26	20.9	25.3	5	2	No	Anterior	37/6	40/2	Vaginal	No	No	01:00:55	Yes
+ice008_p_3of4	ice008	pregnancy	3	26	20.9	25.0	5	2	No	Anterior	39/2	40/2	Vaginal	No	No	01:06:30	Yes
+ice008_p_4of4	ice008	pregnancy	4	26	20.9	25.3	5	2	No	Anterior	40/1	40/2	Vaginal	No	No	01:05:30	Yes
+ice009_p_1of2	ice009	pregnancy	1	24	22.8	25.3	2	1	No	Posterior	33/1	39/0	Vaginal	No	No	01:25:30	Yes
+ice009_p_2of2	ice009	pregnancy	2	24	22.8	26.1	2	1	No	Posterior	38/1	39/0	Vaginal	No	No	00:49:35	Yes
+ice010_p_1of3	ice010	pregnancy	1	22	19.1	23.0	1	0	No	Posterior	29/5	41/4	Vaginal	Yes	Yes	01:07:40	Yes
+ice010_p_2of3	ice010	pregnancy	2	22	19.1	23.0	1	0	No	Posterior	31/5	41/4	Vaginal	Yes	Yes	01:02:00	Yes
+ice010_p_3of3	ice010	pregnancy	3	22	19.1	23.8	1	0	No	Posterior	34/5	41/4	Vaginal	Yes	Yes	01:04:15	Yes
+ice011_p_1of3	ice011	pregnancy	1	37	25.4	30.9	4	3	No	Anterior	36/0	40/0	Vaginal	Yes	No	01:06:10	Yes
+ice011_p_2of3	ice011	pregnancy	2	37	25.4	31.1	4	3	No	Anterior	38/0	40/0	Vaginal	Yes	No	01:00:50	Yes
+ice011_l_3of3	ice011	labour	3	37	25.4	31.8	4	3	No	Anterior	40/0	40/0	Vaginal	Yes	No	00:25:10	No
+ice012_p_1of4	ice012	pregnancy	1	19	23.4	26.8	2	0	No	Posterior	33/0	40/6	Vaginal	No	Yes	01:01:05	Yes
+ice012_p_2of4	ice012	pregnancy	2	19	23.4	26.8	2	0	No	Posterior	35/0	40/6	Vaginal	No	Yes	01:00:50	Yes
+ice012_p_3of4	ice012	pregnancy	3	19	23.4	27.4	2	0	No	Posterior	37/0	40/6	Vaginal	No	Yes	01:00:55	Yes
+ice012_p_4of4	ice012	pregnancy	4	19	23.4	27.8	2	0	No	Posterior	38/0	40/6	Vaginal	No	Yes	00:59:10	Yes
+ice013_p_1of3	ice013	pregnancy	1	28	30.5	35.4	2	1	No	Posterior	34/4	40/4	Vaginal	No	No	01:02:20	Yes
+ice013_p_2of3	ice013	pregnancy	2	28	30.5	36.0	2	1	No	Posterior	38/0	40/4	Vaginal	No	No	00:52:15	Yes
+ice013_p_3of3	ice013	pregnancy	3	28	30.5	35.9	2	1	No	Posterior	39/0	40/4	Vaginal	No	No	01:03:40	Yes
+ice014_p_1of3	ice014	pregnancy	1	33	28.1	32.2	3	2	No	Posterior	36/2	40/1	Vaginal	No	No	01:00:45	Yes
+ice014_p_2of3	ice014	pregnancy	2	33	28.1	32.7	3	2	No	Posterior	38/2	40/1	Vaginal	No	No	01:02:35	Yes
+ice014_p_3of3	ice014	pregnancy	3	33	28.1	32.8	3	2	No	Posterior	39/2	40/1	Vaginal	No	No	00:51:10	Yes
+ice015_p_1of1	ice015	pregnancy	1	23	25.1	30.7	1	0	No	Anterior	36/4	38/3	Emergency caesarean due to other than slow progress	No	No	01:14:55	Yes
+ice016_l_1of1	ice016	labour	1	20	23.9	30.5	3	0	No	Anterior	39/3	39/3	Vaginal	Yes	Yes	00:50:55	Yes
+ice017_p_1of3	ice017	pregnancy	1	31	19.5	24.4	2	1	No	Anterior	36/5	42/1	Vaginal/Induction	Yes	No	00:46:50	Yes
+ice017_p_2of3	ice017	pregnancy	2	31	19.5	25.2	2	1	No	Anterior	39/3	42/1	Vaginal/Induction	Yes	No	01:00:40	Yes
+ice017_p_3of3	ice017	pregnancy	3	31	19.5	25.3	2	1	No	Anterior	40/6	42/1	Vaginal/Induction	Yes	No	00:19:10	Yes
+ice018_p_1of1	ice018	pregnancy	1	37	24.1	28.9	4	2	Yes	Posterior	38/1	38/4	Elective caesarean	No	No	01:01:10	Yes
+ice019_p_1of1	ice019	pregnancy	1	29	21.1	25.2	4	2	No	Fundus	40/2	41/1	Vaginal	No	No	00:55:15	No
+ice020_l_1of1	ice020	labour	1	24	20.9	27.2	1	0	No	Posterior/Lateral left	41/5	41/5	Vaginal	Yes	Yes	01:04:10	No
+ice021_p_1of3	ice021	pregnancy	1	27	25.4	30.4	1	0	No	Anterior	35/3	40/2	Vaginal	Yes	Yes	01:03:40	Yes
+ice021_p_2of3	ice021	pregnancy	2	27	25.4	30.4	1	0	No	Anterior	36/6	40/2	Vaginal	Yes	Yes	01:03:00	Yes
+ice021_p_3of3	ice021	pregnancy	3	27	25.4	30.4	1	0	No	Anterior	37/6	40/2	Vaginal	Yes	Yes	01:02:35	Yes
+ice022_p_1of1	ice022	pregnancy	1	21	19.6	24.4	1	0	No	Anterior	34/2	38/0	Vaginal	No	No	01:08:10	Yes
+ice023_p_1of1	ice023	pregnancy	1	29	31.6	33.5	2	1	No	Posterior	32/4	40/5	Vaginal	Yes	Yes	01:04:50	Yes
+ice024_l_1of1	ice024	labour	1	35	38.6	42.2	2	1	No	Posterior	39/6	39/6	Vaginal	No	No	00:25:20	Yes
+ice025_l_1of1	ice025	labour	1	27	27.3	30.8	2	0	No	Anterior	41/2	41/2	Vaginal	Yes	Yes	00:51:40	Yes
+ice026_p_1of4	ice026	pregnancy	1	25	26.2	28.5	1	0	No	Anterior	35/0	39/5	Vaginal	Yes	No	00:52:45	Yes
+ice026_p_2of4	ice026	pregnancy	2	25	26.2	28.6	1	0	No	Anterior	37/0	39/5	Vaginal	Yes	No	01:00:55	Yes
+ice026_p_3of4	ice026	pregnancy	3	25	26.2	28.9	1	0	No	Anterior	38/0	39/5	Vaginal	Yes	No	01:00:50	Yes
+ice026_p_4of4	ice026	pregnancy	4	25	26.2	29.0	1	0	No	Anterior	39/0	39/5	Vaginal	Yes	No	01:05:15	Yes
+ice027_p_1of7	ice027	pregnancy	1	31	31.1	34.5	7	2	No	Anterior	29/5	38/1	Vaginal	Yes	No	00:56:45	No
+ice027_p_2of7	ice027	pregnancy	2	31	31.1	35.0	7	2	No	Anterior	33/3	38/1	Vaginal	Yes	No	01:01:15	Yes
+ice027_p_3of7	ice027	pregnancy	3	31	31.1	35.2	7	2	No	Anterior	34/5	38/1	Vaginal	Yes	No	01:00:25	No
+ice027_p_4of7	ice027	pregnancy	4	31	31.1	35.5	7	2	No	Anterior	35/5	38/1	Vaginal	Yes	No	01:00:10	Yes
+ice027_p_5of7	ice027	pregnancy	5	31	31.1	35.2	7	2	No	Anterior	36/5	38/1	Vaginal	Yes	No	01:00:25	Yes
+ice027_p_6of7	ice027	pregnancy	6	31	31.1	35.5	7	2	No	Anterior	37/5	38/1	Vaginal	Yes	No	01:01:40	Yes
+ice027_l_7of7	ice027	labour	7	31	31.1	35.5	7	2	No	Anterior	38/1	38/1	Vaginal	Yes	No	00:32:00	No
+ice028_p_1of3	ice028	pregnancy	1	31	21.6	24.9	4	1	No	Posterior	34/1	38/0	Vaginal	No	No	01:03:30	Yes
+ice028_p_2of3	ice028	pregnancy	2	31	21.6	25.3	4	1	No	Posterior	36/1	38/0	Vaginal	No	No	01:00:30	Yes
+ice028_p_3of3	ice028	pregnancy	3	31	21.6	25.7	4	1	No	Posterior	37/1	38/0	Vaginal	No	No	01:06:20	Yes
+ice029_p_1of2	ice029	pregnancy	1	25	24.5	28.3	3	2	No	Anterior/Superior	32/5	35/3	Vaginal/Induction	Yes	Yes	01:00:20	Yes
+ice029_p_2of2	ice029	pregnancy	2	25	24.5	28.8	3	2	No	Anterior/Superior	34/5	35/3	Vaginal/Induction	Yes	Yes	01:00:40	Yes
+ice030_p_1of4	ice030	pregnancy	1	33	20.1	25.6	2	1	Yes	Posterior/Superior	33/6	37/0	Vaginal	Yes	Yes	01:01:25	No
+ice030_p_2of4	ice030	pregnancy	2	33	20.1	26.0	2	1	Yes	Posterior/Superior	35/6	37/0	Vaginal	Yes	Yes	01:04:25	Yes
+ice030_p_3of4	ice030	pregnancy	3	33	20.1	26.4	2	1	Yes	Posterior/Superior	36/6	37/0	Vaginal	Yes	Yes	01:01:00	Yes
+ice030_l_4of4	ice030	labour	4	33	20.1	26.4	2	1	Yes	Posterior/Superior	37/0	37/0	Vaginal	Yes	Yes	00:31:30	No
+ice031_p_1of3	ice031	pregnancy	1	38	35.0	35.9	6	3	Yes	Anterior	36/1	39/0	Vaginal	Yes	No	01:00:15	Yes
+ice031_p_2of3	ice031	pregnancy	2	38	35.0	35.6	6	3	Yes	Anterior	38/3	39/0	Vaginal	Yes	No	01:00:35	Yes
+ice031_l_3of3	ice031	labour	3	38	35.0	35.8	6	3	Yes	Anterior	39/0	39/0	Vaginal	Yes	No	00:37:55	Yes
+ice032_p_1of5	ice032	pregnancy	1	31	26.0	28.7	1	0	No	Posterior	31/6	40/1	Vaginal	No	No	00:34:10	Yes
+ice032_p_2of5	ice032	pregnancy	2	31	26.0	28.7	1	0	No	Posterior	34/0	40/1	Vaginal	No	No	01:01:15	Yes
+ice032_p_3of5	ice032	pregnancy	3	31	26.0	29.4	1	0	No	Posterior	36/0	40/1	Vaginal	No	No	01:07:00	Yes
+ice032_p_4of5	ice032	pregnancy	4	31	26.0	29.8	1	0	No	Posterior	37/2	40/1	Vaginal	No	No	01:08:25	Yes
+ice032_p_5of5	ice032	pregnancy	5	31	26.0	30.1	1	0	No	Posterior	40/0	40/1	Vaginal	No	No	01:00:35	Yes
+ice033_p_1of1	ice033	pregnancy	1	20	20.4	24.1	3	0	No	Anterior	33/2	39/1	Vaginal	Yes	Yes	01:00:45	Yes
+ice034_p_1of5	ice034	pregnancy	1	36	22.1	24.9	3	2	No	Anterior/High	30/3	38/5	Vaginal/Induction	Yes	Yes	01:01:45	Yes
+ice034_p_2of5	ice034	pregnancy	2	36	22.1	25.2	3	2	No	Anterior/High	32/3	38/5	Vaginal/Induction	Yes	Yes	01:04:35	Yes
+ice034_p_3of5	ice034	pregnancy	3	36	22.1	25.7	3	2	No	Anterior/High	35/3	38/5	Vaginal/Induction	Yes	Yes	01:03:20	Yes
+ice034_p_4of5	ice034	pregnancy	4	36	22.1	25.8	3	2	No	Anterior/High	37/5	38/5	Vaginal/Induction	Yes	Yes	00:50:00	Yes
+ice034_l_5of5	ice034	labour	5	36	22.1	25.8	3	2	No	Anterior/High	38/5	38/5	Vaginal/Induction	Yes	Yes	00:36:00	No
+ice035_p_1of3	ice035	pregnancy	1	34	34.3	36.3	3	2	Yes	Anterior/High	32/0	39/0	Elective caesarean	No	No	01:00:25	Yes
+ice035_p_2of3	ice035	pregnancy	2	34	34.3	36.5	3	2	Yes	Anterior/High	34/0	39/0	Elective caesarean	No	No	01:00:25	Yes
+ice035_p_3of3	ice035	pregnancy	3	34	34.3	37.0	3	2	Yes	Anterior/High	36/0	39/0	Elective caesarean	No	No	01:00:15	Yes
+ice036_p_1of6	ice036	pregnancy	1	39	31.0	35.5	5	2	No	Anterior/High	31/6	41/1	Emergency caesarean due to other than slow progress	No	No	01:00:30	Yes
+ice036_p_2of6	ice036	pregnancy	2	39	31.0	36.2	5	2	No	Anterior/High	34/2	41/1	Emergency caesarean due to other than slow progress	No	No	00:58:40	Yes
+ice036_p_3of6	ice036	pregnancy	3	39	31.0	35.5	5	2	No	Anterior/High	37/3	41/1	Emergency caesarean due to other than slow progress	No	No	01:04:55	Yes
+ice036_p_4of6	ice036	pregnancy	4	39	31.0	35.8	5	2	No	Anterior/High	38/3	41/1	Emergency caesarean due to other than slow progress	No	No	01:03:15	Yes
+ice036_p_5of6	ice036	pregnancy	5	39	31.0	35.8	5	2	No	Anterior/High	39/3	41/1	Emergency caesarean due to other than slow progress	No	No	00:43:50	Yes
+ice036_p_6of6	ice036	pregnancy	6	39	31.0	35.8	5	2	No	Anterior/High	40/2	41/1	Emergency caesarean due to other than slow progress	No	No	01:02:10	Yes
+ice037_p_1of2	ice037	pregnancy	1	33	26.6	31.9	2	1	Yes	Posterior/High	33/5	38/5	Emergency caesarean due to other than slow progress	No	No	01:03:35	Yes
+ice037_p_2of2	ice037	pregnancy	2	33	26.6	32.6	2	1	Yes	Posterior/High	36/5	38/5	Emergency caesarean due to other than slow progress	No	No	00:59:20	Yes
+ice038_p_1of1	ice038	pregnancy	1	29	28.4	32.2	4	1	Yes	Anterior/High	33/3	37/2	Elective caesarean	No	No	01:00:40	Yes
+ice039_p_1of6	ice039	pregnancy	1	34	29.8	29.9	1	0	No	Anterior/High	31/4	40/0	Vaginal	No	No	01:02:20	Yes
+ice039_p_2of6	ice039	pregnancy	2	34	29.8	29.6	1	0	No	Anterior/High	33/4	40/0	Vaginal	No	No	00:58:45	Yes
+ice039_p_3of6	ice039	pregnancy	3	34	29.8	30.0	1	0	No	Anterior/High	35/5	40/0	Vaginal	No	No	01:01:50	Yes
+ice039_p_4of6	ice039	pregnancy	4	34	29.8	30.1	1	0	No	Anterior/High	37/2	40/0	Vaginal	No	No	01:02:10	Yes
+ice039_p_5of6	ice039	pregnancy	5	34	29.8	30.5	1	0	No	Anterior/High	38/2	40/0	Vaginal	No	No	01:02:30	Yes
+ice039_p_6of6	ice039	pregnancy	6	34	29.8	30.3	1	0	No	Anterior/High	39/2	40/0	Vaginal	No	No	00:56:20	Yes
+ice040_p_1of5	ice040	pregnancy	1	39	20.7	28.2	2	0	No	Posterior/High	36/5	41/6	Vaginal/Induction	Yes	No	01:03:00	Yes
+ice040_p_2of5	ice040	pregnancy	2	39	20.7	28.9	2	0	No	Posterior/High	37/5	41/6	Vaginal/Induction	Yes	No	00:52:20	Yes
+ice040_p_3of5	ice040	pregnancy	3	39	20.7	29.4	2	0	No	Posterior/High	38/5	41/6	Vaginal/Induction	Yes	No	01:00:35	Yes
+ice040_p_4of5	ice040	pregnancy	4	39	20.7	29.7	2	0	No	Posterior/High	39/5	41/6	Vaginal/Induction	Yes	No	01:01:55	Yes
+ice040_p_5of5	ice040	pregnancy	5	39	20.7	29.7	2	0	No	Posterior/High	40/6	41/6	Vaginal/Induction	Yes	No	01:01:20	Yes
+ice041_p_1of2	ice041	pregnancy	1	26	33.9	37.6	3	1	No	Anterior/Right	36/0	38/5	Vaginal/Induction	No	No	01:02:30	Yes
+ice041_p_2of2	ice041	pregnancy	2	26	33.9	37.9	3	1	No	Anterior/Right	36/5	38/5	Vaginal/Induction	No	No	01:03:05	Yes
+ice042_p_1of2	ice042	pregnancy	1	25	20.3	22.6	2	0	No	Anterior/High	34/4	40/3	Vaginal	Yes	Yes	01:00:40	Yes
+ice042_p_2of2	ice042	pregnancy	2	25	20.3	22.9	2	0	No	Anterior/High	38/2	40/3	Vaginal	Yes	Yes	00:46:55	Yes
+ice043_p_1of2	ice043	pregnancy	1	25	24.1	26.2	2	0	No	Anterior	33/2	40/5	Emergency caesarean due to other than slow progress	No	No	01:06:15	No
+ice043_p_2of2	ice043	pregnancy	2	25	24.1	26.9	2	0	No	Anterior	36/4	40/5	Emergency caesarean due to other than slow progress	No	No	01:01:15	Yes
+ice044_p_1of3	ice044	pregnancy	1	28	23.2	28.4	1	0	No	Anterior/High	36/3	40/6	Vaginal	Yes	No	01:01:55	Yes
+ice044_p_2of3	ice044	pregnancy	2	28	23.2	28.7	1	0	No	Anterior/High	38/5	40/6	Vaginal	Yes	No	01:04:10	Yes
+ice044_p_3of3	ice044	pregnancy	3	28	23.2	29.1	1	0	No	Anterior/High	40/5	40/6	Vaginal	Yes	No	00:58:30	Yes
+ice045_p_1of4	ice045	pregnancy	1	26	24.7	29.4	4	1	No	Anterior/High	33/2	40/0	Vaginal	No	No	01:06:45	Yes
+ice045_p_2of4	ice045	pregnancy	2	26	24.7	29.8	4	1	No	Anterior/High	35/6	40/0	Vaginal	No	No	01:05:55	Yes
+ice045_p_3of4	ice045	pregnancy	3	26	24.7	30.1	4	1	No	Anterior/High	37/3	40/0	Vaginal	No	No	01:07:15	Yes
+ice045_p_4of4	ice045	pregnancy	4	26	24.7	30.5	4	1	No	Anterior/High	39/4	40/0	Vaginal	No	No	01:11:00	Yes

@@ -1,0 +1,61 @@
+STUDYID,USUBJID,SUBJID,SITEID,AGE,AGEU,SEX,RACE,ETHNIC,ARM,ACTARM,TRT01P,TRT02P,TRT01PN,TRT02PN,TRT01A,TRT02A,TRT01AN,TRT02AN,TRTSEQP,TRTSEQPN,TRTSEQA,TRTSEQAN
+SCR-004,1001,1001,SCR,41,Years,M,  WHITE,NOT HISPANIC OR LATINO,Ranolazine,Ranolazine,Ranolazine,,1,NA,Ranolazine,,1,NA,Ranolazine,1,Ranolazine,1
+SCR-004,1002,1002,SCR,23,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Lopinavir+Ritonavir,Lopinavir+Ritonavir,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,3,Lopinavir+Ritonavir,3
+SCR-004,1003,1003,SCR,20,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Chloroquine,Chloroquine,Chloroquine,,4,NA,Chloroquine,,4,NA,Chloroquine,4,Chloroquine,4
+SCR-004,1004,1004,SCR,43,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Placebo,Placebo,Placebo,,5,NA,Placebo,,5,NA,Placebo,5,Placebo,5
+SCR-004,1005,1005,SCR,50,Years,M,  WHITE,NOT HISPANIC OR LATINO,Lopinavir+Ritonavir,Lopinavir+Ritonavir,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,3,Lopinavir+Ritonavir,3
+SCR-004,1006,1006,SCR,47,Years,M,  WHITE,NOT HISPANIC OR LATINO,Verapamil,Verapamil,Verapamil,,2,NA,Verapamil,,2,NA,Verapamil,2,Verapamil,2
+SCR-004,1007,1007,SCR,30,Years,M,  BLACK OR AFRICAN AMERICAN,UNKNOWN,Verapamil,Verapamil,Verapamil,,2,NA,Verapamil,,2,NA,Verapamil,2,Verapamil,2
+SCR-004,1008,1008,SCR,28,Years,M,  WHITE,NOT HISPANIC OR LATINO,Ranolazine,Ranolazine,Ranolazine,,1,NA,Ranolazine,,1,NA,Ranolazine,1,Ranolazine,1
+SCR-004,1009,1009,SCR,39,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Chloroquine,Chloroquine,Chloroquine,,4,NA,Chloroquine,,4,NA,Chloroquine,4,Chloroquine,4
+SCR-004,1010,1010,SCR,28,Years,F,  WHITE,HISPANIC OR LATINO,Placebo,Placebo,Placebo,,5,NA,Placebo,,5,NA,Placebo,5,Placebo,5
+SCR-004,1011,1011,SCR,30,Years,F,  WHITE,NOT HISPANIC OR LATINO,Lopinavir+Ritonavir,Lopinavir+Ritonavir,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,3,Lopinavir+Ritonavir,3
+SCR-004,1012,1012,SCR,35,Years,F,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Ranolazine,Ranolazine,Ranolazine,,1,NA,Ranolazine,,1,NA,Ranolazine,1,Ranolazine,1
+SCR-004,1013,1013,SCR,23,Years,F,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Placebo,Placebo,Placebo,,5,NA,Placebo,,5,NA,Placebo,5,Placebo,5
+SCR-004,1014,1014,SCR,27,Years,F,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Verapamil,Verapamil,Verapamil,,2,NA,Verapamil,,2,NA,Verapamil,2,Verapamil,2
+SCR-004,1015,1015,SCR,38,Years,F,  WHITE,HISPANIC OR LATINO,Chloroquine,Chloroquine,Chloroquine,,4,NA,Chloroquine,,4,NA,Chloroquine,4,Chloroquine,4
+SCR-004,1016,1016,SCR,25,Years,F,  WHITE,NOT HISPANIC OR LATINO,Verapamil,Verapamil,Verapamil,,2,NA,Verapamil,,2,NA,Verapamil,2,Verapamil,2
+SCR-004,1017,1017,SCR,19,Years,F,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Lopinavir+Ritonavir,Lopinavir+Ritonavir,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,3,Lopinavir+Ritonavir,3
+SCR-004,1018,1018,SCR,22,Years,F,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Verapamil,Verapamil,Verapamil,,2,NA,Verapamil,,2,NA,Verapamil,2,Verapamil,2
+SCR-004,1019,1019,SCR,43,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Placebo,Placebo,Placebo,,5,NA,Placebo,,5,NA,Placebo,5,Placebo,5
+SCR-004,1020,1020,SCR,21,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Chloroquine,Chloroquine,Chloroquine,,4,NA,Chloroquine,,4,NA,Chloroquine,4,Chloroquine,4
+SCR-004,1021,1021,SCR,23,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Verapamil,Verapamil,Verapamil,,2,NA,Verapamil,,2,NA,Verapamil,2,Verapamil,2
+SCR-004,1022,1022,SCR,29,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Ranolazine,Ranolazine,Ranolazine,,1,NA,Ranolazine,,1,NA,Ranolazine,1,Ranolazine,1
+SCR-004,1023,1023,SCR,26,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Placebo,Placebo,Placebo,,5,NA,Placebo,,5,NA,Placebo,5,Placebo,5
+SCR-004,1024,1024,SCR,37,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Chloroquine,Chloroquine,Chloroquine,,4,NA,Chloroquine,,4,NA,Chloroquine,4,Chloroquine,4
+SCR-004,1025,1025,SCR,23,Years,M,  WHITE,NOT HISPANIC OR LATINO,Ranolazine,Ranolazine,Ranolazine,,1,NA,Ranolazine,,1,NA,Ranolazine,1,Ranolazine,1
+SCR-004,1026,1026,SCR,30,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Ranolazine,Ranolazine,Ranolazine,,1,NA,Ranolazine,,1,NA,Ranolazine,1,Ranolazine,1
+SCR-004,1027,1027,SCR,19,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Chloroquine,Chloroquine,Chloroquine,,4,NA,Chloroquine,,4,NA,Chloroquine,4,Chloroquine,4
+SCR-004,1028,1028,SCR,38,Years,M,  WHITE,NOT HISPANIC OR LATINO,Placebo,Placebo,Placebo,,5,NA,Placebo,,5,NA,Placebo,5,Placebo,5
+SCR-004,1029,1029,SCR,41,Years,M,  WHITE,NOT HISPANIC OR LATINO,Lopinavir+Ritonavir,Lopinavir+Ritonavir,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,3,Lopinavir+Ritonavir,3
+SCR-004,1030,1030,SCR,23,Years,M,  WHITE,NOT HISPANIC OR LATINO,Lopinavir+Ritonavir,Lopinavir+Ritonavir,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,3,Lopinavir+Ritonavir,3
+SCR-004,1031,1031,SCR,22,Years,M,  WHITE,HISPANIC OR LATINO,Placebo,Placebo,Placebo,,5,NA,Placebo,,5,NA,Placebo,5,Placebo,5
+SCR-004,1032,1032,SCR,28,Years,M, ASIAN,NOT HISPANIC OR LATINO,Ranolazine,Ranolazine,Ranolazine,,1,NA,Ranolazine,,1,NA,Ranolazine,1,Ranolazine,1
+SCR-004,1033,1033,SCR,40,Years,M, ASIAN,NOT HISPANIC OR LATINO,Chloroquine,Chloroquine,Chloroquine,,4,NA,Chloroquine,,4,NA,Chloroquine,4,Chloroquine,4
+SCR-004,1034,1034,SCR,41,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Placebo,Placebo,Placebo,,5,NA,Placebo,,5,NA,Placebo,5,Placebo,5
+SCR-004,1035,1035,SCR,29,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Verapamil,Verapamil,Verapamil,,2,NA,Verapamil,,2,NA,Verapamil,2,Verapamil,2
+SCR-004,1036,1036,SCR,50,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Ranolazine,Ranolazine,Ranolazine,,1,NA,Ranolazine,,1,NA,Ranolazine,1,Ranolazine,1
+SCR-004,1037,1037,SCR,26,Years,M,  WHITE,NOT HISPANIC OR LATINO,Placebo,Placebo,Placebo,,5,NA,Placebo,,5,NA,Placebo,5,Placebo,5
+SCR-004,1038,1038,SCR,29,Years,M,  WHITE,NOT HISPANIC OR LATINO,Chloroquine,Chloroquine,Chloroquine,,4,NA,Chloroquine,,4,NA,Chloroquine,4,Chloroquine,4
+SCR-004,1039,1039,SCR,43,Years,M, ASIAN,NOT HISPANIC OR LATINO,Placebo,Placebo,Placebo,,5,NA,Placebo,,5,NA,Placebo,5,Placebo,5
+SCR-004,1040,1040,SCR,21,Years,M,  WHITE,NOT HISPANIC OR LATINO,Verapamil,Verapamil,Verapamil,,2,NA,Verapamil,,2,NA,Verapamil,2,Verapamil,2
+SCR-004,1041,1041,SCR,45,Years,F,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Lopinavir+Ritonavir,Lopinavir+Ritonavir,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,3,Lopinavir+Ritonavir,3
+SCR-004,1042,1042,SCR,22,Years,F,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Chloroquine,Chloroquine,Chloroquine,,4,NA,Chloroquine,,4,NA,Chloroquine,4,Chloroquine,4
+SCR-004,1043,1043,SCR,23,Years,F,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Chloroquine,Chloroquine,Chloroquine,,4,NA,Chloroquine,,4,NA,Chloroquine,4,Chloroquine,4
+SCR-004,1044,1044,SCR,23,Years,F, ASIAN,NOT HISPANIC OR LATINO,Verapamil,Verapamil,Verapamil,,2,NA,Verapamil,,2,NA,Verapamil,2,Verapamil,2
+SCR-004,1045,1045,SCR,34,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Ranolazine,Ranolazine,Ranolazine,,1,NA,Ranolazine,,1,NA,Ranolazine,1,Ranolazine,1
+SCR-004,1046,1046,SCR,35,Years,M,  WHITE,NOT HISPANIC OR LATINO,Verapamil,Verapamil,Verapamil,,2,NA,Verapamil,,2,NA,Verapamil,2,Verapamil,2
+SCR-004,1047,1047,SCR,40,Years,F,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Ranolazine,Ranolazine,Ranolazine,,1,NA,Ranolazine,,1,NA,Ranolazine,1,Ranolazine,1
+SCR-004,1048,1048,SCR,31,Years,F,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Lopinavir+Ritonavir,Lopinavir+Ritonavir,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,3,Lopinavir+Ritonavir,3
+SCR-004,1049,1049,SCR,42,Years,F,  WHITE,NOT HISPANIC OR LATINO,Lopinavir+Ritonavir,Lopinavir+Ritonavir,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,3,Lopinavir+Ritonavir,3
+SCR-004,1050,1050,SCR,22,Years,F,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Lopinavir+Ritonavir,Lopinavir+Ritonavir,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,,3,NA,Lopinavir+Ritonavir,3,Lopinavir+Ritonavir,3
+SCR-004,2001,2001,SCR,27,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Dofetilide -> Diltiazem+Dofetilide,Dofetilide -> Diltiazem+Dofetilide,Dofetilide,Diltiazem+Dofetilide,6,7,Dofetilide,Diltiazem+Dofetilide,6,7,Dofetilide -> Diltiazem+Dofetilide,6,Dofetilide -> Diltiazem+Dofetilide,6
+SCR-004,2002,2002,SCR,34,Years,M,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Dofetilide -> Diltiazem+Dofetilide,Dofetilide -> Diltiazem+Dofetilide,Dofetilide,Diltiazem+Dofetilide,6,7,Dofetilide,Diltiazem+Dofetilide,6,7,Dofetilide -> Diltiazem+Dofetilide,6,Dofetilide -> Diltiazem+Dofetilide,6
+SCR-004,2003,2003,SCR,38,Years,M,  WHITE,NOT HISPANIC OR LATINO,Dofetilide -> Diltiazem+Dofetilide,Dofetilide -> Diltiazem+Dofetilide,Dofetilide,Diltiazem+Dofetilide,6,7,Dofetilide,Diltiazem+Dofetilide,6,7,Dofetilide -> Diltiazem+Dofetilide,6,Dofetilide -> Diltiazem+Dofetilide,6
+SCR-004,2004,2004,SCR,30,Years,M,  WHITE,HISPANIC OR LATINO,Diltiazem+Dofetilide -> Dofetilide,Diltiazem+Dofetilide -> Dofetilide,Diltiazem+Dofetilide,Dofetilide,7,6,Diltiazem+Dofetilide,Dofetilide,7,6,Diltiazem+Dofetilide -> Dofetilide,7,Diltiazem+Dofetilide -> Dofetilide,7
+SCR-004,2005,2005,SCR,38,Years,M,  WHITE,NOT HISPANIC OR LATINO,Diltiazem+Dofetilide -> Dofetilide,Diltiazem+Dofetilide -> Dofetilide,Diltiazem+Dofetilide,Dofetilide,7,6,Diltiazem+Dofetilide,Dofetilide,7,6,Diltiazem+Dofetilide -> Dofetilide,7,Diltiazem+Dofetilide -> Dofetilide,7
+SCR-004,2006,2006,SCR,37,Years,F,  WHITE,NOT HISPANIC OR LATINO,Dofetilide -> Diltiazem+Dofetilide,Dofetilide -> Diltiazem+Dofetilide,Dofetilide,Diltiazem+Dofetilide,6,7,Dofetilide,Diltiazem+Dofetilide,6,7,Dofetilide -> Diltiazem+Dofetilide,6,Dofetilide -> Diltiazem+Dofetilide,6
+SCR-004,2007,2007,SCR,31,Years,F,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Diltiazem+Dofetilide -> Dofetilide,Diltiazem+Dofetilide -> Dofetilide,Diltiazem+Dofetilide,Dofetilide,7,6,Diltiazem+Dofetilide,Dofetilide,7,6,Diltiazem+Dofetilide -> Dofetilide,7,Diltiazem+Dofetilide -> Dofetilide,7
+SCR-004,2008,2008,SCR,23,Years,F,  BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Dofetilide -> Diltiazem+Dofetilide,Dofetilide -> Diltiazem+Dofetilide,Dofetilide,Diltiazem+Dofetilide,6,7,Dofetilide,Diltiazem+Dofetilide,6,7,Dofetilide -> Diltiazem+Dofetilide,6,Dofetilide -> Diltiazem+Dofetilide,6
+SCR-004,2009,2009,SCR,28,Years,F,  WHITE,NOT HISPANIC OR LATINO,Diltiazem+Dofetilide -> Dofetilide,Diltiazem+Dofetilide -> Dofetilide,Diltiazem+Dofetilide,Dofetilide,7,6,Diltiazem+Dofetilide,Dofetilide,7,6,Diltiazem+Dofetilide -> Dofetilide,7,Diltiazem+Dofetilide -> Dofetilide,7
+SCR-004,2010,2010,SCR,48,Years,F,  WHITE,NOT HISPANIC OR LATINO,Diltiazem+Dofetilide -> Dofetilide,Diltiazem+Dofetilide -> Dofetilide,Diltiazem+Dofetilide,Dofetilide,7,6,Diltiazem+Dofetilide,Dofetilide,7,6,Diltiazem+Dofetilide -> Dofetilide,7,Diltiazem+Dofetilide -> Dofetilide,7
